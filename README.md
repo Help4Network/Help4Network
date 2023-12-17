@@ -10,7 +10,9 @@ AWS Automation
 Web Application Firewall Development
 
 - 📫 How to reach me ...
-https://Help4Network.com
+https://Help4Network.com/contact.php
+https://FixItPhill.com
+https://PhillipLey.com
 https://Help4Webmail.com
 https://Help4WordPress.com
 https://Help4Magento.com
@@ -19,10 +21,8 @@ https://Help4Everything.com
 https://Help4PLESK.com
 https://Help4Hosting.com
 https://ReplaceMyDeveloper.com
-https://FixItPhill.com
 https://FixItSpaz.com
 https://TechMiPro.com
-https://PhillipLey.com
 https://TarahLey.com
 
 <!---
