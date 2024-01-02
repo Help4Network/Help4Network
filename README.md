@@ -9,21 +9,15 @@ AWS Automation
 Google Cloud Automation
 Web Application Firewall Development
 
-- 📫 How to reach me ...
-https://Help4Network.com/contact.php
-https://FixItPhill.com
-https://PhillipLey.com
-https://Help4Webmail.com
-https://Help4WordPress.com
-https://Help4Magento.com
-https://Help4cPanel.com
-https://Help4Everything.com
-https://Help4PLESK.com
-https://Help4Hosting.com
-https://ReplaceMyDeveloper.com
-https://FixItSpaz.com
-https://TechMiPro.com
-https://TarahLey.com
+- 📫 How to reach me or the affiliates of Help4 Network...
+- https://Help4Network.com/contact.php
+- https://FixItPhill.com
+- https://PhillipLey.com
+- https://Help4WordPress.com
+- https://FixItSpaz.com
+- https://TechMiPro.com
+- https://TarahLey.com
+- https://www.azadhossen.com/
 
 <!---
 Help4Network/Help4Network is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
