@@ -5,8 +5,8 @@ WordPress Development
 cPanel/WHM Administration
 PLESK Administration
 Magento Administration
-CloudFront Development
 AWS Automation
+Google Cloud Automation
 Web Application Firewall Development
 
 - 📫 How to reach me ...
